@@ -14,6 +14,10 @@ npm run serve
 ```
 npm run build
 ```
+### 或者
+在Edit configurations中添加npm 配置`run`
+
+![Snipaste_2021-03-22_21-35-26](https://user-images.githubusercontent.com/50910401/111997987-8af9b100-8b56-11eb-93bf-a2856a1a7a17.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
